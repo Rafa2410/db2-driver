@@ -17,10 +17,10 @@
     ],
     "require": {
         "php": "^8.1",
-        "spatie/laravel-package-tools": "^1.13.0",
-        "illuminate/contracts": "^8|^9",
-        "illuminate/support": "^8|^9",
-        "illuminate/database": "^8|^9"
+        "spatie/laravel-package-tools": "*",
+        "illuminate/contracts": "*",
+        "illuminate/support": "*",
+        "illuminate/database": "*"
     },
     "require-dev": {
         "laravel/pint": "^1.0",
